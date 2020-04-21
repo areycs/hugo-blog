@@ -9,7 +9,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [params]
   description = "A blog for tech and tech-adjacent ramblings"
   metadescription = ""
-  cover = ""
+  cover = "/img/darius-soodmand-116253.jpg"
   author = "Alexander Reynolds"
   authorlocation = "Earth, Milky Way Galaxy"
   authorwebsite = ""
